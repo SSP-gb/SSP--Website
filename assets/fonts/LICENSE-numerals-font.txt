@@ -1,0 +1,15 @@
+The files ssp-numerals-regular.woff and ssp-numerals-bold.woff are subsets (digits and
+a few symbols only) of the font "Carlito", renamed "SSP Numerals" as the licence requires
+for modified versions. They are used on this website so that numbers appear in a
+Calibri-style face on every device.
+
+Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+The full licence text and FAQ are available at: https://openfontlicense.org
+(also: https://scripts.sil.org/OFL)
+
+Summary of the licence terms that apply to this subset: the font may be used, studied,
+copied, modified and redistributed freely, but not sold by itself; each copy must keep this
+copyright notice and the licence; and modified versions may not use the Reserved Font
+Name "Carlito". The font software is provided "as is", without warranty of any kind.
